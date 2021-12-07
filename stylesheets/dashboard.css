@@ -64,7 +64,9 @@
   flex-direction: column;
   align-items: center;
   padding: 25px;
-  overflow: scroll;
+  gap: 20px;
+  overflow-y: scroll;
+  overflow-x: hidden;
   width: 100%;
 }
 
