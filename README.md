@@ -7,8 +7,11 @@ DBMS Project for third semester 2021.
 - ER Diagram Uploaded.
 - Created the php code, html and css files
 - Added logic for fetching data and displaying it on the frontend
+- Its a wrap.:)
 
 ## Group Members:
 - Siddhant Tohan - 2020UCM2308
 - Jivanshu Popli - 2020UCM2319
 - Vansh Kapila - 2020UCM2337
+ 
+
