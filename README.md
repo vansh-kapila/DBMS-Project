@@ -13,5 +13,8 @@ DBMS Project for third semester 2021.
 - Siddhant Tohan - 2020UCM2308
 - Jivanshu Popli - 2020UCM2319
 - Vansh Kapila - 2020UCM2337
+
+Project Description Uploaded [here](https://github.com/vansh-kapila/DBMS-Project/blob/main/DBMS%20Project%20(4).pdf)
+
  
 
